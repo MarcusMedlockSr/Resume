@@ -1,0 +1,3 @@
+TXT=marcusmedlock.github.io
+ms=ms27384746
+TTL=3600
